@@ -1,0 +1,7 @@
+{
+  "name": "cookeo-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
